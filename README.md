@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @endlessmove
 - 👀 I’m interested in data science and Machine learning
-- welcome exchange
+- RL Junior
 
 <!---
 endlessmove/endlessmove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
